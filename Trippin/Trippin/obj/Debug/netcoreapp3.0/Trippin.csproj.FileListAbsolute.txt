@@ -1,0 +1,12 @@
+D:\Texte\5_AHIF\C#\trippin-exercise-GusenbauerMax\Trippin\Trippin\bin\Debug\netcoreapp3.0\users.json
+D:\Texte\5_AHIF\C#\trippin-exercise-GusenbauerMax\Trippin\Trippin\bin\Debug\netcoreapp3.0\Trippin.exe
+D:\Texte\5_AHIF\C#\trippin-exercise-GusenbauerMax\Trippin\Trippin\bin\Debug\netcoreapp3.0\Trippin.deps.json
+D:\Texte\5_AHIF\C#\trippin-exercise-GusenbauerMax\Trippin\Trippin\bin\Debug\netcoreapp3.0\Trippin.runtimeconfig.json
+D:\Texte\5_AHIF\C#\trippin-exercise-GusenbauerMax\Trippin\Trippin\bin\Debug\netcoreapp3.0\Trippin.runtimeconfig.dev.json
+D:\Texte\5_AHIF\C#\trippin-exercise-GusenbauerMax\Trippin\Trippin\bin\Debug\netcoreapp3.0\Trippin.dll
+D:\Texte\5_AHIF\C#\trippin-exercise-GusenbauerMax\Trippin\Trippin\bin\Debug\netcoreapp3.0\Trippin.pdb
+D:\Texte\5_AHIF\C#\trippin-exercise-GusenbauerMax\Trippin\Trippin\obj\Debug\netcoreapp3.0\Trippin.csprojAssemblyReference.cache
+D:\Texte\5_AHIF\C#\trippin-exercise-GusenbauerMax\Trippin\Trippin\obj\Debug\netcoreapp3.0\Trippin.AssemblyInfoInputs.cache
+D:\Texte\5_AHIF\C#\trippin-exercise-GusenbauerMax\Trippin\Trippin\obj\Debug\netcoreapp3.0\Trippin.AssemblyInfo.cs
+D:\Texte\5_AHIF\C#\trippin-exercise-GusenbauerMax\Trippin\Trippin\obj\Debug\netcoreapp3.0\Trippin.dll
+D:\Texte\5_AHIF\C#\trippin-exercise-GusenbauerMax\Trippin\Trippin\obj\Debug\netcoreapp3.0\Trippin.pdb
